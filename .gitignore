@@ -1,0 +1,6 @@
+.env
+siakad-mini
+siakad-mini.exe
+*.exe
+logs/*.log
+task.md
